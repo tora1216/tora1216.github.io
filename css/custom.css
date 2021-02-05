@@ -1,0 +1,42 @@
+.item .image{
+    height:200px;
+    width:100%;
+    background-position: center center;
+    background-size: cover;
+}
+
+#image1{
+    background-image: url(../img/visit/visited_1.JPG);
+}
+
+#image2{
+    background-image: url(../img/visit/visited_2.JPG);
+}
+#image3{
+    background-image: url(../img/visit/visited_3.JPG);
+}
+#image4{
+    background-image: url(../img/visit/visited_4.JPG);
+}
+#image5{
+    background-image: url(../img/visit/visited_5.JPG);
+}
+#image6{
+    background-image: url(../img/visit/visited_6.JPG);
+}
+#image7{
+    background-image: url(../img/visit/visited_7.JPG);
+}
+#image8{
+    background-image: url(../img/visit/visited_8.JPG);
+}
+#image9{
+    background-image: url(../img/visit/visited_9.jpg);
+}
+
+#contact>#map>iframe{
+    margin-top:30px;
+}
+
+
+
